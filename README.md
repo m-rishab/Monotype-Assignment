@@ -26,6 +26,10 @@ The Discriminator is a binary classifier that takes an image as input and output
 
 The model is trained for a maximum of 10 epochs. The training process involves alternating updates to the Discriminator and Generator. Losses for both models are monitored and plotted to evaluate the performance.
 
+## Generated Images
+<img width="695" alt="Screenshot 2024-08-09 at 4 29 02 PM" src="https://github.com/user-attachments/assets/6794c1e3-312d-43ed-8c8f-72547fa28f94">
+
+
 ```python
 # Key Training Parameters
 batch_size = 128
